@@ -1,29 +1,23 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
+    "title": "Data Journey",
+    "name": "data-journey-blog",
     "version": "4.0.12",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "A data learning blog",
     "keywords": [
-        "css",
-        "sass",
-        "html",
+        "blog",
+        "data",
         "responsive",
-        "theme",
-        "template"
+        "theme"
     ],
-    "homepage": "https://startbootstrap.com/themes/clean-blog-jekyll",
+    "homepage": "https://lzguangzl.github.io/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/lzguangzl/lzguangzl.github.io/issues"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "lzguangzl",
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/lzguangzl/lzguangzl.github.io.git"
     },
     "dependencies": {
         "bootstrap": "4.6.0",
