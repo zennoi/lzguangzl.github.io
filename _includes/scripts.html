@@ -33,6 +33,9 @@
         $.ajax({
           url: "//formspree.io/f/{{ site.email }}",
           method: "POST",
+          headers: {
+            'Accept': 'application/json'
+          },
           data: {
             name: name,
             phone: phone,
